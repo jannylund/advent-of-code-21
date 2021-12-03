@@ -15,3 +15,11 @@ result day 01 part 2: sliding_increases=1418 in 0.757 ms
 result day 02 part 1: position=(1965, 1182), result=2322630 in 0.122 ms
 result day 02 part 2: position=(1965, 1071386, 1182), result=2105273490 in 0.141 ms
 ```
+
+## Day 3
+
+```
+[x86_64] ± python day03.py      
+result day 03 part 1: power_consumption=1307354 in 1.439 ms
+result day 03 part 2: life_support_rating=482500 in 1.139 ms
+```
