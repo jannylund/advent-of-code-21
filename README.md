@@ -23,3 +23,11 @@ result day 02 part 2: position=(1965, 1071386, 1182), result=2105273490 in 0.141
 result day 03 part 1: power_consumption=1307354 in 1.439 ms
 result day 03 part 2: life_support_rating=482500 in 1.139 ms
 ```
+
+## Day 4
+
+```
+[x86_64] ± python day04.py
+result day 04 part 1: winning_score=44088 in 26.365 ms
+result day 04 part 2: loosing_score=23670 in 55.56 ms
+```
