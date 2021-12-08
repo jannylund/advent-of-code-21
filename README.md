@@ -31,3 +31,11 @@ result day 03 part 2: life_support_rating=482500 in 1.139 ms
 result day 04 part 1: winning_score=44088 in 26.365 ms
 result day 04 part 2: loosing_score=23670 in 55.56 ms
 ```
+
+
+## Day 6
+```
+[x86_64] ± python day06.py
+result day 06 part 1: fish_count=387413 in 0.191 ms
+result day 06 part 2: fish_count=1738377086345 in 0.502 ms
+```
